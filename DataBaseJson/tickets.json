@@ -1,0 +1,42 @@
+{
+    "tickets": {
+        "funcoes": {
+            "Suporte": {
+                "nome": "Suporte",
+                "predescricao": "problemas com o site ou serviços",
+                "descricao": "Seu ticket foi registrado. Nossa equipe de suporte irá atender você em breve.",
+                "emoji": "<:suporte:1262528175892860978>"
+            },
+            "Dúvidas": {
+                "nome": "Dúvidas",
+                "predescricao": "disponibilidade ou características dos produtos",
+                "descricao": "Seu ticket foi registrado. Nossa equipe de suporte irá atender você em breve.",
+                "emoji": "<:enterogaao:1279945194292379749>"
+            },
+            "Valorant": {
+                "nome": "Valorant",
+                "predescricao": "Ver Contas de Valorant",
+                "descricao": "Obrigado por abrir um ticket! Nossa equipe está a caminho para ajudar você. Aguarde só um momento.",
+                "emoji": "<:icons8riotgames480:1274920592465854475>"
+            }
+        },
+        "aparencia": {
+            "color": "#2b2d31",
+            "banner": "https://media.discordapp.net/attachments/1140283668292702268/1274789456783609906/cyberticket.png?ex=66c387b2&is=66c23632&hm=35897b88214966223dd61af428564cefc1e6493210214e9c9de7e1a4b7138c7e&=&format=webp&quality=lossless",
+            "title": "Atendimento ao cliente",
+            "description": "Estamos aqui para ajudar! Se tiver dúvidas, problemas técnicos ou precisar de suporte, abra um ticket abaixo. Nossa equipe estará pronta para fornecer a assistência necessária e garantir a sua satisfação! 😊\n\nHorário de Suporte:\n\nDias de Semana: 12:00 - 23:00\n\nSábados e Domingos: Suporte reduzido"
+        },
+        "messageid": [
+            {
+                "msgid": "1279996329669689384",
+                "channelid": "1153563769046311012",
+                "guildid": "1065775045764460695"
+            },
+            {
+                "msgid": "1309535035396853873",
+                "channelid": "1153563769046311012",
+                "guildid": "1065775045764460695"
+            }
+        ]
+    }
+}
